@@ -11,9 +11,7 @@ Hey, I am Apurv Kulkarni, Welcome to my Github Profile. Feel Free to explore my 
 # Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/apurv-kulkarni-080293212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/apurv-kulkarni-080293212/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sohamjoshi25" target="blank"><img align="center" src="https://img.icons8.com/?size=200&id=vAtJFm3hwtQw&format=png&color=ffffff" alt="sohamjoshi25" height="36" width="36" /></a>
-<a href="https://www.leetcode.com/sohamjoshi25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sohamjoshi25" height="30" width="40" /></a>
-<a href="mailto:sohamjoshi.official@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=rUgzXdXFnhmg&format=png&color=FFFFFF" alt="sohamjoshi25" height="36" width="36" /></a>
+></a>
 </p>
 <br/>
 
